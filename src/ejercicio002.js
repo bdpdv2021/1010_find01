@@ -5,7 +5,7 @@ Cambiar la información inicial
 db.inventory.insertOne(
     { 
         item: "ebook", 
-        qty: 80, 
+        qty: 25, 
         size: { 
             h: 8, 
             w: 10, 
